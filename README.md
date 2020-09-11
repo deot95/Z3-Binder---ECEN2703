@@ -4,7 +4,7 @@
 
 * Remember that to run the code in the jupyter notebook cells you can press SHIFT + ENTER. 
 
-* I left an index.ipynb with the basic z3 import. You can use that one or create a new one, whichever you prefer.
+* I left an index.ipynb with the basic Z3 import. You can use that one or create a new one, whichever you prefer.
 
 
 * Don't forget to download the jupyter notebook or copy the contents of it before closing the browser tab in which it is running. **All the files edited and "saved" in the environment are temporary.**
