@@ -1,1 +1,1 @@
-# Z3-Binder---ECEN2703
+# Z3-Binder ECEN2703
